@@ -260,7 +260,7 @@ export default function App() {
                 <div className="relative overflow-hidden rounded-xl border border-neutral-800 bg-[#0d0d0d] p-3 transition-transform duration-500 hover:scale-[1.02]">
                   <div className="overflow-hidden rounded-lg aspect-[4/5] bg-neutral-950">
                     <img 
-                      src="assets/img/dika2.jpeg" 
+                      src="/img/dika2.jpeg" 
                       alt="Portrait of Andika Aryadi Putra" 
                       className="h-full w-full object-cover object-top transition-all duration-700 hover:scale-105" 
                       referrerPolicy="no-referrer" 
